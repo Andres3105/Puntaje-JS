@@ -7,7 +7,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 17rem;
+    margin-top: 15rem;
 }
 .item{
     background-color: rgb(198, 198, 198);
